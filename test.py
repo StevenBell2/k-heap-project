@@ -231,6 +231,5 @@ Note: log_k(n) = log(n)/log(k)
     plt.tight_layout()
     plt.show()
 
-
 if __name__ == "__main__":
     plot_results(trials=20)
